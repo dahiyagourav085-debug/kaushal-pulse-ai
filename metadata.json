@@ -1,0 +1,6 @@
+{
+  "name": "Kaushal Pulse AI",
+  "description": "AI-Enabled Labour Market Intelligence and Skill Demand-Supply Forecasting Engine for India's Ministry of Skill Development and Entrepreneurship (MSDE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
